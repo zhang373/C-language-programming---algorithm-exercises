@@ -1,0 +1,5 @@
+﻿  源.c
+D:\计算机作业\Project2  c084   1\Project2  c084   1\源.c(51,34): warning C4020: “cutup”: 实参太多
+D:\计算机作业\Project2  c084   1\Project2  c084   1\源.c(84,1): warning C4029: 声明的形参表不同于定义
+D:\计算机作业\Project2  c084   1\Project2  c084   1\源.c(81): warning C4715: “rathersame”: 不是所有的控件路径都返回值
+  Project2  c084   1.vcxproj -> D:\计算机作业\Project2  c084   1\Debug\Project2  c084   1.exe

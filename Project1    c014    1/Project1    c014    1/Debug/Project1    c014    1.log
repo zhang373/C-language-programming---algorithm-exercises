@@ -1,0 +1,4 @@
+﻿  源.c
+D:\计算机作业\Project1    c014    1\Project1    c014    1\源.c(19,12): warning C4101: “c”: 未引用的局部变量
+D:\计算机作业\Project1    c014    1\Project1    c014    1\源.c(19,15): warning C4101: “d”: 未引用的局部变量
+  Project1    c014    1.vcxproj -> D:\计算机作业\Project1    c014    1\Debug\Project1    c014    1.exe

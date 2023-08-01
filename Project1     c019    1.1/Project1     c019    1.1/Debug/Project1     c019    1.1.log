@@ -1,0 +1,4 @@
+﻿  源.c
+D:\计算机作业\Project1     c019    1.1\Project1     c019    1.1\源.c(27,9): warning C4101: “buduanzengzhangdesushu”: 未引用的局部变量
+D:\计算机作业\Project1     c019    1.1\Project1     c019    1.1\源.c(89,1): warning C4305: “初始化”: 从“__int64”到“int”截断
+  Project1     c019    1.1.vcxproj -> D:\计算机作业\Project1     c019    1.1\Debug\Project1     c019    1.1.exe

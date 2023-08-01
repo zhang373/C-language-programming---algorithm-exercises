@@ -1,0 +1,5 @@
+﻿  源.c
+D:\计算机作业\Project1      c146    1\Project1      c146    1\源.c(48,11): warning C4018: “<”: 有符号/无符号不匹配
+D:\计算机作业\Project1      c146    1\Project1      c146    1\源.c(55,11): warning C4018: “<”: 有符号/无符号不匹配
+D:\计算机作业\Project1      c146    1\Project1      c146    1\源.c(84,11): warning C4018: “<”: 有符号/无符号不匹配
+  Project1      c146    1.vcxproj -> D:\计算机作业\Project1      c146    1\Debug\Project1      c146    1.exe

@@ -1,0 +1,4 @@
+﻿  源.c
+D:\计算机作业\Project1    c077   1\Project1    c077   1\源.c(30,6): warning C4013: “gets”未定义；假设外部返回 int
+D:\计算机作业\Project1    c077   1\Project1    c077   1\源.c(121): warning C4715: “find”: 不是所有的控件路径都返回值
+  Project1    c077   1.vcxproj -> D:\计算机作业\Project1    c077   1\Debug\Project1    c077   1.exe

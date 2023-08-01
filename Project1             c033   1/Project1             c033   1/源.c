@@ -1,0 +1,1 @@
+/* C033-公式计算1+1/(1+2)+1/(1+2+3)+…+1/(1+2+3+…+n)输入整数n>=1,计算下式的值。 s=1+1/(1+2)+1/(1+2+3)+…+1/(1+2+3+…+n) 输入：正整数 输出：实数，格式"%f\n".*/#define _CRT_SECURE_NO_WARNINGS#include<stdio.h>#include<string.h>#include<math.h>int main(){		return 0;}

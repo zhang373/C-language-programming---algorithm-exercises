@@ -1,0 +1,4 @@
+﻿  源.c
+D:\计算机作业\Project1       c109   1\Project1       c109   1\源.c(25,6): warning C4013: “gets”未定义；假设外部返回 int
+D:\计算机作业\Project1       c109   1\Project1       c109   1\源.c(28,11): warning C4018: “<”: 有符号/无符号不匹配
+  Project1       c109   1.vcxproj -> D:\计算机作业\Project1       c109   1\Debug\Project1       c109   1.exe

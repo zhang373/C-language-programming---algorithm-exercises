@@ -1,0 +1,5 @@
+﻿  源.c
+D:\计算机作业\Project1     c013   1.1\Project1     c013   1.1\源.c(24,1): warning C4305: “初始化”: 从“unsigned __int64”到“int”截断
+D:\计算机作业\Project1     c013   1.1\Project1     c013   1.1\源.c(15,6): warning C4101: “h”: 未引用的局部变量
+D:\计算机作业\Project1     c013   1.1\Project1     c013   1.1\源.c(14,6): warning C4101: “w”: 未引用的局部变量
+  Project1     c013   1.1.vcxproj -> D:\计算机作业\Project1     c013   1.1\Debug\Project1     c013   1.1.exe

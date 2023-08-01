@@ -1,0 +1,5 @@
+﻿  源.c
+D:\计算机作业\Project1    c097  1\Project1    c097  1\源.c(33,14): warning C4018: “<”: 有符号/无符号不匹配
+D:\计算机作业\Project1    c097  1\Project1    c097  1\源.c(59,14): warning C4018: “<”: 有符号/无符号不匹配
+D:\计算机作业\Project1    c097  1\Project1    c097  1\源.c(75): warning C4715: “chuxianguomei”: 不是所有的控件路径都返回值
+  Project1    c097  1.vcxproj -> D:\计算机作业\Project1    c097  1\Debug\Project1    c097  1.exe

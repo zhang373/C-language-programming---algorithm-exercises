@@ -1,0 +1,4 @@
+﻿  源.c
+D:\计算机作业\Project1    c036  1\Project1    c036  1\源.c(20,10): warning C4101: “kkk”: 未引用的局部变量
+D:\计算机作业\Project1    c036  1\Project1    c036  1\源.c(21,10): warning C4101: “rubbish”: 未引用的局部变量
+  Project1    c036  1.vcxproj -> D:\计算机作业\Project1    c036  1\Debug\Project1    c036  1.exe

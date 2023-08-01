@@ -1,0 +1,5 @@
+﻿  源.c
+D:\计算机作业\Project1    c105    1\Project1    c105    1\源.c(79,7): warning C4018: “<”: 有符号/无符号不匹配
+D:\计算机作业\Project1    c105    1\Project1    c105    1\源.c(83,30): warning C4018: “<”: 有符号/无符号不匹配
+D:\计算机作业\Project1    c105    1\Project1    c105    1\源.c(87): warning C4715: “cmpr”: 不是所有的控件路径都返回值
+  Project1    c105    1.vcxproj -> D:\计算机作业\Project1    c105    1\Debug\Project1    c105    1.exe

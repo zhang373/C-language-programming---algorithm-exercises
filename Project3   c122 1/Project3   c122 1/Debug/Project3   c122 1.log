@@ -1,0 +1,4 @@
+﻿  源.c
+D:\计算机作业\Project3   c122 1\Project3   c122 1\源.c(30,15): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+D:\计算机作业\Project3   c122 1\Project3   c122 1\源.c(51,21): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  Project3   c122 1.vcxproj -> D:\计算机作业\Project3   c122 1\Debug\Project3   c122 1.exe

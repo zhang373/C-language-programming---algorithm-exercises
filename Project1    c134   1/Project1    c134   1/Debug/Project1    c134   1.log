@@ -1,0 +1,4 @@
+﻿  源.c
+D:\计算机作业\Project1    c134   1\Project1    c134   1\源.c(51,23): warning C4133: “函数”: 从“double [200]”到“float *”的类型不兼容
+D:\计算机作业\Project1    c134   1\Project1    c134   1\源.c(74,19): warning C4028: 形参 1 与声明不同
+  Project1    c134   1.vcxproj -> D:\计算机作业\Project1    c134   1\Debug\Project1    c134   1.exe
